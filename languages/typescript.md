@@ -13,3 +13,10 @@ Prefix **`I` is not used** for interfaces.
 1. Interface describing **arguments** of the class `Aa` is to be called **`AaArgs`**.
 2. Interface describing main **object of operation** of the class `Aa` is to be called **`AaInterface`**.
 3. **Callback** to a class or interface named `Aa` is to be called **`AaCallback`**
+
+# Extensions/plug-ins
+
+## Required
+
+- ESLint
+- Prettier
